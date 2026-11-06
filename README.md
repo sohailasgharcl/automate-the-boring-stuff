@@ -30,7 +30,7 @@ Requires Python 3. From the repo folder:
 
 ## Progress
 
-Chapters 1-7 done. More chapters will be added as I complete them.
+Chapters 1-8 done. More chapters will be added as I complete them.
 
 ## Author
 
