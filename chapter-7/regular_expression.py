@@ -145,3 +145,4 @@ print(newLineRegex.search("be honest\n. do your best\n. get the reward"))
 #sub() method to substitute string
 namesRegex = re.compile(r"Agent\w+")
 print(namesRegex.sub("stephan","Agent hawking gave the documents to Agent steve"))
+
