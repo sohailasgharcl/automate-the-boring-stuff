@@ -13,6 +13,7 @@ Practice scripts and short programs from *Automate the Boring Stuff with Python*
 | chapter-5 | Dictionaries and structuring data | dictionaries.py |
 | chapter-6 | Manipulating strings | manipulating_strings.py, pig_latin.py |
 | chapter-7 | Pattern matching with regular expressions | regular_expression.py |
+| chapter-8 | Input validation | input_validation.py, keep_idiot_busy.py |
 
 ## Short programs
 
@@ -29,7 +30,7 @@ Requires Python 3. From the repo folder:
 
 ## Progress
 
-Chapters 1-7 done. More chapters will be added as I complete them.
+Chapters 1-8 done. More chapters will be added as I complete them.
 
 ## Author
 
